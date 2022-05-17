@@ -13,7 +13,7 @@ const TITLE = {
 const CONTENT = {
   Astronot: `Astronot CSS adalah sebuah tools untuk membantu membuat dan membangun situs lebih cepat dengan desain yang unik, ukuran yang mini menjadikan situs mu akan lebih cepat ketika di akses , dan dengan dukungan solid js akan membantu menjadikan website mu menjadi lebih modern, dan tentunya ini adalah open source code yang bisa kamu gunakan dan kembangkan lagi sesaui kebutuhan mu , mulai lah menggunakan astronot css dengan solid js.`,
   Install: `Cara installasinya pun cukup mudah saja , gunakan terminal dan mulai bekerja sekarang, jalankan git clone https://github.com/mesinkasir/solid-astronot.git - setelah itu install dan jalankan npm install && npm run dev, buka localhost:3000 pada web browser kamu dan mulai bekerja menggunakan astronot css feat solid js.`,
-  Deploy: `Mulai online kan website mu sekarang dengan mendaftarkan ke static host seperti github,vercel,heroku ataupun firebase dan surge, sebelum nya tingkatkan ke production mode dengan menjalankan npm run build, dan setelah itu kamu bisa push source code kamu ke static hosting, atau push ke repo kamu dan integrasikan ke static hosting untuk membuat website mu menjadi online.`
+  Deploy: `Mulai online kan website mu sekarang dengan mendaftarkan ke static host seperti github,vercel,heroku ataupun firebase dan surge, sebelum nya tingkatkan ke production mode dengan menjalankan npm run build, dan setelah itu kamu bisa push dist atau full source code kamu ke static hosting, atau push ke repo kamu dan integrasikan ke static hosting untuk membuat website mu menjadi online.`
 };
 function createDelay() {
   return new Promise((resolve) => {
