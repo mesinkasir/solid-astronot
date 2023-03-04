@@ -2,7 +2,7 @@ import { createSignal, Suspense, Switch, Match, useTransition } from "solid-js";
 import { render } from "solid-js/web";
 import Content from "./content";
 
-import "../node_modules/astronot/astronot.min.css";
+import "../node_modules/astronot/css/astronot.min.css";
 
 const App = () => {
   const [tab, setTab] = createSignal(0);
