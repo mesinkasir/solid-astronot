@@ -24,7 +24,7 @@
     "url": "https://website.axcora.com/"
   },
   "dependencies": {
-    "astronot": "^1.0.0",
+    "astronot": "^1.0.1-sv",
     "render": "^0.1.4",
     "solid-app-router": "^0.3.2",
     "solid-js": "^1.3.13",
